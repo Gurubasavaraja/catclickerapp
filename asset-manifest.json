@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/catclickerapp/static/css/main.cfde8293.chunk.css",
+    "main.js": "/catclickerapp/static/js/main.8e9f7d98.chunk.js",
+    "main.js.map": "/catclickerapp/static/js/main.8e9f7d98.chunk.js.map",
+    "runtime-main.js": "/catclickerapp/static/js/runtime-main.699c6c61.js",
+    "runtime-main.js.map": "/catclickerapp/static/js/runtime-main.699c6c61.js.map",
+    "static/css/2.0624914a.chunk.css": "/catclickerapp/static/css/2.0624914a.chunk.css",
+    "static/js/2.d4a7da4d.chunk.js": "/catclickerapp/static/js/2.d4a7da4d.chunk.js",
+    "static/js/2.d4a7da4d.chunk.js.map": "/catclickerapp/static/js/2.d4a7da4d.chunk.js.map",
+    "index.html": "/catclickerapp/index.html",
+    "precache-manifest.b17ba06445d2cc0118b6e34fb33d6978.js": "/catclickerapp/precache-manifest.b17ba06445d2cc0118b6e34fb33d6978.js",
+    "service-worker.js": "/catclickerapp/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/catclickerapp/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.cfde8293.chunk.css.map": "/catclickerapp/static/css/main.cfde8293.chunk.css.map",
+    "static/media/cat.jpg": "/catclickerapp/static/media/cat.423c5bfd.jpg"
+  }
+}
