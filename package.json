@@ -3,15 +3,26 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bootstrap": "^4.3.1",
+    "crypto-js": "^3.1.9-1",
+    "gh-pages": "^2.1.1",
+    "graphql": "^14.5.8",
     "react": "^16.9.0",
+    "react-bootstrap": "^1.0.0-beta.12",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.1.2"
+    "react-router-dom": "^5.1.0",
+    "react-scripts": "3.1.2",
+    "react-snap": "^1.23.0"
   },
+  "homepage": "https://gurubasavaraja.github.io/catclickerapp",
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "postbuild": "react-snap"
   },
   "eslintConfig": {
     "extends": "react-app"
